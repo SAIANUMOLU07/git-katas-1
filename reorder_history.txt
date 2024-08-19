@@ -1,5 +1,8 @@
 HI
 Bye
+<<<<<<< HEAD
 Good
 Morning
 Night
+=======
+>>>>>>> 1d6d810 (New3 commit)
